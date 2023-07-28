@@ -1,22 +1,8 @@
 export const searchIndex = [
   {
-    "title": "介绍页",
-    "headers": [],
-    "path": "/intro.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "",
     "headers": [],
     "path": "/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "幻灯片页",
-    "headers": [],
-    "path": "/slides.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -177,7 +163,7 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "",
+    "title": "介绍页",
     "headers": [
       {
         "level": 2,
@@ -246,33 +232,18 @@ export const searchIndex = [
     "path": "/timeline/",
     "pathLocale": "/",
     "extraFields": []
-  },
-  {
-    "title": "HTML 分类",
-    "headers": [],
-    "path": "/category/html/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "标签: HTML",
-    "headers": [],
-    "path": "/tag/html/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Web 分类",
-    "headers": [],
-    "path": "/category/web/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "标签: Web",
-    "headers": [],
-    "path": "/tag/web/",
-    "pathLocale": "/",
-    "extraFields": []
   }
 ]
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ searchIndex }) => {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  })
+}

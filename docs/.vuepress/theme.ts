@@ -40,6 +40,7 @@ export default hopeTheme({
 
   // repo: "vuepress-theme-hope/vuepress-theme-hope",
 
+  // 文档在仓库中的目录，默认为根目录
   docsDir: "docs",
 
   // navbar
@@ -53,7 +54,6 @@ export default hopeTheme({
 
   // sidebar
   sidebar,
-  headerDepth: 5,
 
 
   // 开启脚注与版本信息显示
