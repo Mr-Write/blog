@@ -8,7 +8,7 @@ const MR_HOPE_AVATAR =
 
 export default hopeTheme({
 
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://mr-write.github.io",
 
   // 配置文章的作者，以及点击时的跳转链接
   author: {
