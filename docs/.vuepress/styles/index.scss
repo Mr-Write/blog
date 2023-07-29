@@ -1,4 +1,21 @@
+// 修改暗黑背景下主页和侧边栏的颜色
 html[data-theme=dark] #main-content,
 html[data-theme=dark] #sidebar{
     background-color: #1f1f1f;
+}
+
+// 修改加粗字的颜色
+html[data-theme=dark] strong {
+    color: #cac8c8;
+}
+
+// 行内代码块样式
+code {
+    margin: 0.4rem;
+    padding: 0.2rem 0.3rem;
+}
+
+// 一篇文章的目录，修改允许的最大宽度
+#toc {
+    max-width: 27rem;
 }

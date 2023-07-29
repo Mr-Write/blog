@@ -158,7 +158,7 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/basic/%E5%88%9D%E5%AD%A6%E8%80%85%E5%80%BC%E5%BE%97%E4%B8%80%E7%9C%8B%EF%BC%9A%E4%BB%80%E4%B9%88%E6%98%AFC%E8%AF%AD%E8%A8%80%EF%BC%8C%E5%AD%A6%E4%B9%A0%E5%BB%BA%E8%AE%AE%EF%BC%8C%E8%A7%A3%E7%96%91%E4%B8%8E%E8%AF%AF%E5%8C%BA.html",
+    "path": "/basic/beginner-guide-2023.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -180,7 +180,7 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/basic/%E6%88%91%E7%9A%84%E6%B5%8B%E8%AF%95.html",
+    "path": "/basic/the-test.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -195,41 +195,6 @@ export const searchIndex = [
     "title": "Basic",
     "headers": [],
     "path": "/basic/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "分类",
-    "headers": [],
-    "path": "/category/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "标签",
-    "headers": [],
-    "path": "/tag/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "文章",
-    "headers": [],
-    "path": "/article/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "收藏",
-    "headers": [],
-    "path": "/star/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "时间轴",
-    "headers": [],
-    "path": "/timeline/",
     "pathLocale": "/",
     "extraFields": []
   }

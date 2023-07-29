@@ -12,8 +12,12 @@ export default navbar([
     prefix: "/basic/",
     children: [
       {
-        text: "给编程初学者的建议",
-        link: "初学者值得一看：什么是C语言，学习建议，解疑与误区"
+        text: "初学者指南",
+        link: "beginner-guide-2023"
+      },
+      {
+        text: "我的测试",
+        link: 'the-test'
       }
     ]
   }
