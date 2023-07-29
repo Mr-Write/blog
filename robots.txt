@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://mr-write.github.io/sitemap.xml
+Sitemap: https://blog.zhulang.love/sitemap.xml
