@@ -134,7 +134,7 @@ export default hopeTheme({
     git: true,
 
     // 关闭文章需要的阅读时长显示
-    // readingTime: false,
+    readingTime: false,
 
     // 代码复制
     copyCode: {
