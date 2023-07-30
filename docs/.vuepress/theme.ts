@@ -119,10 +119,10 @@ export default hopeTheme({
 
 
   // page meta
-  // metaLocales: {
-  //   lastUpdated: '上次更新',
-  //   author: "作者"
-  // },
+  metaLocales: {
+    lastUpdated: '上次更新',
+    author: "作者"
+  },
 
 
 
@@ -134,7 +134,7 @@ export default hopeTheme({
     git: true,
 
     // 关闭文章需要的阅读时长显示
-    readingTime: false,
+    // readingTime: false,
 
     // 代码复制
     copyCode: {
