@@ -3,7 +3,7 @@ import { defineUserConfig } from "vuepress";
 // import { shikiPlugin } from "@vuepress/plugin-shiki";
 import theme from "./theme.js";
 import { searchPlugin } from "@vuepress/plugin-search";
-import { gitPlugin } from '@vuepress/plugin-git'
+// import { gitPlugin } from '@vuepress/plugin-git'
 
 
 
@@ -56,13 +56,13 @@ export default defineUserConfig({
       ],
 
     }),
-    gitPlugin({
-      // 不显示文章创建时间
-      createdTime: false,
-      // 不显示文章贡献者
-      contributors: false,
-      // 不显示文章最近更新时间
-      // updatedTime: false,
-    })
+    // gitPlugin({
+    //   // 不显示文章创建时间
+    //   createdTime: false,
+    //   // 不显示文章贡献者
+    //   contributors: false,
+    //   // 不显示文章最近更新时间
+    //   // updatedTime: false,
+    // })
   ]
 });
