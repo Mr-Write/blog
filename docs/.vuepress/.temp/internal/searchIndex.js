@@ -170,7 +170,15 @@ export const searchIndex = [
         "title": "标题1",
         "slug": "标题1",
         "link": "#标题1",
-        "children": []
+        "children": [
+          {
+            "level": 3,
+            "title": "1.1",
+            "slug": "_1-1",
+            "link": "#_1-1",
+            "children": []
+          }
+        ]
       },
       {
         "level": 2,

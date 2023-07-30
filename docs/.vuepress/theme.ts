@@ -14,9 +14,8 @@ export default hopeTheme({
   author: {
     name: "狐狸半面添",
     url: "https://blog.zhulang.love",
-    email: "3179167073@qq.com"
+    email: "3179167073@qq.com",
   },
-
 
   // 设置图标(这里是阿里的)
   iconAssets: "//at.alicdn.com/t/c/font_4186795_z0ely30n25.css",
@@ -118,13 +117,24 @@ export default hopeTheme({
     },
   },
 
+
   // page meta
-  // metaLocales: {
-  //   editLink: "在 GitHub 上编辑此页",
-  // },
+  metaLocales: {
+    lastUpdated: '上次更新',
+    author: "作者"
+  },
+
+
 
   plugins: {
     // blog: true,
+
+    // 在开发模式下启用显示最近更新时间和贡献者
+    // 此功能会对启动与热更新速度造成严重影响，所以默认情况下主题不会在开发模式下启用
+    git: true,
+
+    // 关闭文章需要的阅读时长显示
+    readingTime: false,
 
     // 代码复制
     copyCode: {
