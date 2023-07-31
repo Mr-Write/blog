@@ -8,12 +8,13 @@ export default navbar([
   },
   {
     text: "基础",
-    icon: "zhuye",
+    icon: "jichu",
     prefix: "/basic/",
     children: [
       {
         text: "初学者指南",
-        link: "beginner-guide-2023"
+        link: "beginner-guide-2023",
+        icon: "zhinan",
       },
       {
         text: "我的测试",

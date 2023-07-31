@@ -29,7 +29,7 @@ export default defineClientConfig({
   },
   setup: () => {
     useStyleTag(`\
-@import url("//at.alicdn.com/t/c/font_4186795_z0ely30n25.css");
+@import url("//at.alicdn.com/t/c/font_4186795_k24yzrtkzh.css");
 `);
   },
   rootComponents: [

@@ -63,6 +63,6 @@ export default defineUserConfig({
       contributors: false,
       // 不显示文章最近更新时间
       // updatedTime: false,
-    })
+    }),
   ]
 });

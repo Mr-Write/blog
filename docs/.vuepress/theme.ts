@@ -18,7 +18,7 @@ export default hopeTheme({
   },
 
   // 设置图标(这里是阿里的)
-  iconAssets: "//at.alicdn.com/t/c/font_4186795_z0ely30n25.css",
+  iconAssets: "//at.alicdn.com/t/c/font_4186795_k24yzrtkzh.css",
   iconPrefix: "iconfont icon-",
 
   // 默认 switch: 在深色模式，浅色模式和自动之间切换 
@@ -72,59 +72,11 @@ export default hopeTheme({
   prevLink: true,
   nextLink: true,
 
-  // blog: {
-  //   description: "一个前端开发者",
-  //   intro: "/intro.html",
-  //   medias: {
-  //     Baidu: "https://example.com",
-  //     BiliBili: "https://example.com",
-  //     Bitbucket: "https://example.com",
-  //     Dingding: "https://example.com",
-  //     Discord: "https://example.com",
-  //     Dribbble: "https://example.com",
-  //     Email: "mailto:info@example.com",
-  //     Evernote: "https://example.com",
-  //     Facebook: "https://example.com",
-  //     Flipboard: "https://example.com",
-  //     Gitee: "https://example.com",
-  //     GitHub: "https://example.com",
-  //     Gitlab: "https://example.com",
-  //     Gmail: "mailto:info@example.com",
-  //     Instagram: "https://example.com",
-  //     Lark: "https://example.com",
-  //     Lines: "https://example.com",
-  //     Linkedin: "https://example.com",
-  //     Pinterest: "https://example.com",
-  //     Pocket: "https://example.com",
-  //     QQ: "https://example.com",
-  //     Qzone: "https://example.com",
-  //     Reddit: "https://example.com",
-  //     Rss: "https://example.com",
-  //     Steam: "https://example.com",
-  //     Twitter: "https://example.com",
-  //     Wechat: "https://example.com",
-  //     Weibo: "https://example.com",
-  //     Whatsapp: "https://example.com",
-  //     Youtube: "https://example.com",
-  //     Zhihu: "https://example.com",
-  //     MrHope: ["https://mister-hope.com", MR_HOPE_AVATAR],
-  //   },
-  // },
-
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-    },
-  },
-
-
   // page meta
   metaLocales: {
     lastUpdated: '上次更新',
-    author: "作者"
+    author: "作者",
   },
-
-
 
   plugins: {
     // blog: true,
