@@ -4,6 +4,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { searchPlugin } from "@vuepress/plugin-search";
 import { gitPlugin } from '@vuepress/plugin-git'
+import { readingTime } from "vuepress-theme-hope";
 
 
 
@@ -23,7 +24,6 @@ export default defineUserConfig({
 
   // Enable it with pwa
   // shouldPrefetch: false,
-
 
   plugins: [
     // 更准确代码高亮结果的 shiki 插件

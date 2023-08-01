@@ -193,6 +193,20 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "什么是编程语言",
+    "headers": [],
+    "path": "/basic/beginner-guide-2022/1-what-is-program-language.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "⭐ 初学者值得一看：什么是C语言，学习建议，解疑与误区",
+    "headers": [],
+    "path": "/basic/beginner-guide-2022/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "",
     "headers": [],
     "path": "/404.html",

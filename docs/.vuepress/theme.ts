@@ -173,7 +173,7 @@ export default hopeTheme({
       echarts: true,
 
       // 启用 figure，为图像添加描述，并将其单独展示在上下文中
-      figure: true,
+      // figure: true,
 
       // 流程图
       flowchart: true,
