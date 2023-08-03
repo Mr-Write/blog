@@ -3,6 +3,17 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
     '/basic/': [
         {
+            text: '初学者指南(2023版)',
+            prefix: 'beginner-guide-2023/',
+            icon: "zhinan",
+            children: [
+                {
+                    text: "总览",
+                    link: "README"
+                }
+            ]
+        },
+        {
             text: '初学者指南(2022版)',
             prefix: 'beginner-guide-2022/',
             icon: "zhinan",
@@ -17,7 +28,7 @@ export default sidebar({
                     link: "1-what-is-program-language"
                 },
                 {
-                    text:"2. 什么是C语言与我的强烈建议 - 先学C,而不是c++,java等",
+                    text: "2. 什么是C语言与我的强烈建议 - 先学C,而不是c++,java等",
                     link: "2-What-is-C-and-my-suggestions"
                 },
                 {
@@ -45,11 +56,6 @@ export default sidebar({
                     link: "8-answer-some-other-questions"
                 }
             ]
-        },
-        {
-            text: '初学者指南',
-            link: 'beginner-guide-2023',
-            icon: "zhinan"
         },
         {
             text: '我的测试',

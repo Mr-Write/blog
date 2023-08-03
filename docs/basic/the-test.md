@@ -8,7 +8,7 @@ cover: /assets/images/cover3.jpg
 
 将你的`个人介绍`和档案 **放置** 在此处。
 
-<font color='cornflowerblue'>【为什么要写 #include&lt;stdio.h&gt;】</font>
+
 
 ## 标题1
 
