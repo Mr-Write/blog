@@ -18,7 +18,7 @@ export default navbar([
       },
       {
         text: "初学者指南",
-        link: "beginner-guide-2023",
+        link: "beginner-guide-2023/",
         icon: "zhinan",
       },
       {

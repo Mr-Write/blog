@@ -6,10 +6,15 @@ export default sidebar({
             text: '初学者指南(2023版)',
             prefix: 'beginner-guide-2023/',
             icon: "zhinan",
+            collapsible: true,
             children: [
                 {
                     text: "总览",
                     link: "README"
+                },
+                {
+                    text: "1. 编程的几个基本概念",
+                    link: "1-program-basic-concepts"
                 }
             ]
         },

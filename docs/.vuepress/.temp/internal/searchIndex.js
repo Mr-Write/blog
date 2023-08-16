@@ -37,13 +37,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "",
-    "headers": [],
-    "path": "/basic/beginner-guide-2023/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "什么是编程语言",
     "headers": [],
     "path": "/basic/beginner-guide-2022/1-what-is-program-language.html",
@@ -254,6 +247,20 @@ export const searchIndex = [
     "title": "⭐ 初学者值得一看：什么是C语言，学习建议，解疑与误区",
     "headers": [],
     "path": "/basic/beginner-guide-2022/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "编程的几个基本概念",
+    "headers": [],
+    "path": "/basic/beginner-guide-2023/1-program-basic-concepts.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/basic/beginner-guide-2023/",
     "pathLocale": "/",
     "extraFields": []
   },
