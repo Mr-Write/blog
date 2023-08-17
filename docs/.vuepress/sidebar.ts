@@ -15,6 +15,10 @@ export default sidebar({
                 {
                     text: "1. 编程的几个基本概念",
                     link: "1-program-basic-concepts"
+                },
+                {
+                    text: "2. 学习编程难吗",
+                    link: "2-is-it-difficulty-to-learn-program"
                 }
             ]
         },

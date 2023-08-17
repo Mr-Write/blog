@@ -8,7 +8,7 @@ tagline: 愿你编码半生，归来仍是少年
 
 actions:
   - text: 编程初学者指南 👉
-    link: /basic/beginner-guide-2023
+    link: /basic/beginner-guide-2023/
     type: primary
 
 # features:

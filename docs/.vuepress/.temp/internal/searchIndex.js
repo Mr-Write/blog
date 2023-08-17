@@ -258,6 +258,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "学习编程难吗",
+    "headers": [],
+    "path": "/basic/beginner-guide-2023/2-is-it-difficulty-to-learn-program.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "",
     "headers": [],
     "path": "/basic/beginner-guide-2023/",

@@ -11,6 +11,7 @@ export const pagesRoutes = [
   ["v-378eebf2","/basic/beginner-guide-2022/8-answer-some-other-questions.html",{"y":"a","t":"回答初学者的其它一些疑惑与理解误区（仅个人观点，如意见不同可忽略，勿喷）"},[":md"]],
   ["v-9d550642","/basic/beginner-guide-2022/",{"y":"a","t":"⭐ 初学者值得一看：什么是C语言，学习建议，解疑与误区"},["/basic/beginner-guide-2022/README.md"]],
   ["v-4b10b0ac","/basic/beginner-guide-2023/1-program-basic-concepts.html",{"y":"a","t":"编程的几个基本概念"},[":md"]],
+  ["v-5c92f3f6","/basic/beginner-guide-2023/2-is-it-difficulty-to-learn-program.html",{"y":"a","t":"学习编程难吗"},[":md"]],
   ["v-9d550604","/basic/beginner-guide-2023/",{"y":"a","t":""},["/basic/beginner-guide-2023/README.md"]],
   ["v-3706649a","/404.html",{"y":"p","t":""},[]],
   ["v-7664c5fa","/basic/",{"y":"p","t":"Basic"},[]],

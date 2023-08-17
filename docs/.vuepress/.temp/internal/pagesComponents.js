@@ -25,6 +25,8 @@ export const pagesComponents = {
   "v-9d550642": defineAsyncComponent(() => import(/* webpackChunkName: "v-9d550642" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/index.html.vue")),
   // path: /basic/beginner-guide-2023/1-program-basic-concepts.html
   "v-4b10b0ac": defineAsyncComponent(() => import(/* webpackChunkName: "v-4b10b0ac" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/1-program-basic-concepts.html.vue")),
+  // path: /basic/beginner-guide-2023/2-is-it-difficulty-to-learn-program.html
+  "v-5c92f3f6": defineAsyncComponent(() => import(/* webpackChunkName: "v-5c92f3f6" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/2-is-it-difficulty-to-learn-program.html.vue")),
   // path: /basic/beginner-guide-2023/
   "v-9d550604": defineAsyncComponent(() => import(/* webpackChunkName: "v-9d550604" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/index.html.vue")),
   // path: /404.html
