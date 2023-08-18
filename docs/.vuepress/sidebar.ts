@@ -19,6 +19,10 @@ export default sidebar({
                 {
                     text: "2. 学习编程难吗",
                     link: "2-is-it-difficulty-to-learn-program"
+                },
+                {
+                    text: "3. 英语和数学不好可以学编程吗",
+                    link: "3-math-and-english-to-program"
                 }
             ]
         },

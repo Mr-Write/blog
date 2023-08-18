@@ -37,6 +37,49 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "编程的几个基本概念",
+    "headers": [],
+    "path": "/basic/beginner-guide-2023/1-program-basic-concepts.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "学习编程难吗",
+    "headers": [],
+    "path": "/basic/beginner-guide-2023/2-is-it-difficulty-to-learn-program.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "英语和数学不好可以学编程吗",
+    "headers": [
+      {
+        "level": 2,
+        "title": "1.英语不好可以学编程吗",
+        "slug": "_1-英语不好可以学编程吗",
+        "link": "#_1-英语不好可以学编程吗",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "2.数学不好可以学编程吗",
+        "slug": "_2-数学不好可以学编程吗",
+        "link": "#_2-数学不好可以学编程吗",
+        "children": []
+      }
+    ],
+    "path": "/basic/beginner-guide-2023/3-math-and-english-to-program.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/basic/beginner-guide-2023/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "什么是编程语言",
     "headers": [],
     "path": "/basic/beginner-guide-2022/1-what-is-program-language.html",
@@ -247,27 +290,6 @@ export const searchIndex = [
     "title": "⭐ 初学者值得一看：什么是C语言，学习建议，解疑与误区",
     "headers": [],
     "path": "/basic/beginner-guide-2022/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "编程的几个基本概念",
-    "headers": [],
-    "path": "/basic/beginner-guide-2023/1-program-basic-concepts.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "学习编程难吗",
-    "headers": [],
-    "path": "/basic/beginner-guide-2023/2-is-it-difficulty-to-learn-program.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "",
-    "headers": [],
-    "path": "/basic/beginner-guide-2023/",
     "pathLocale": "/",
     "extraFields": []
   },
