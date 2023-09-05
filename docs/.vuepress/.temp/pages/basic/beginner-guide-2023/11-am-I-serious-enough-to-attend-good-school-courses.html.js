@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-64c7aa49\",\"path\":\"/basic/beginner-guide-2023/11-am-I-serious-enough-to-attend-good-school-courses.html\",\"title\":\"我认认真真上好学校的课程就够了吗\",\"lang\":\"zh-CN\",\"frontmatter\":{\"description\":\"从高中过渡到大学，首先要转变一个思路。高中是学校老师教什么，学生们就学什么，这是因为我们要应对“应试考试”，通过高考这场赛事进入到各种等级的大学。而我们上大学是为了以后可以更好的就业，是到社会的各个企业中做实际的工作，所以如果在这个时候，你还是原来的高中思维，学校老师教什么，你就跟着学什么，那你就会把大学四年的时间都耽误掉。 到了大学之后，首先要明白一...\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://blog.zhulang.love/basic/beginner-guide-2023/11-am-I-serious-enough-to-attend-good-school-courses.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"狐狸半面添的客栈\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"我认认真真上好学校的课程就够了吗\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"从高中过渡到大学，首先要转变一个思路。高中是学校老师教什么，学生们就学什么，这是因为我们要应对“应试考试”，通过高考这场赛事进入到各种等级的大学。而我们上大学是为了以后可以更好的就业，是到社会的各个企业中做实际的工作，所以如果在这个时候，你还是原来的高中思维，学校老师教什么，你就跟着学什么，那你就会把大学四年的时间都耽误掉。 到了大学之后，首先要明白一...\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"article:author\",\"content\":\"狐狸半面添\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"我认认真真上好学校的课程就够了吗\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"狐狸半面添\\\",\\\"url\\\":\\\"https://blog.zhulang.love\\\",\\\"email\\\":\\\"3179167073@qq.com\\\"}]}\"]]},\"headers\":[],\"readingTime\":{\"minutes\":2.07,\"words\":622},\"filePathRelative\":\"basic/beginner-guide-2023/11-am-I-serious-enough-to-attend-good-school-courses.md\",\"copyright\":{\"author\":\"狐狸半面添\"},\"autoDesc\":true,\"git\":{\"updatedTime\":null}}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-4e811ee0\",\"path\":\"/basic/beginner-guide-2023/5-what-is-the-best-programming-language.html\",\"title\":\"世界上最好的编程语言是什么\",\"lang\":\"zh-CN\",\"frontmatter\":{\"description\":\"我认为的是：\\r世界上没有最好的编程语言，存在即合理，只是每门编程语言所适用与擅长的范围不同。; \\r世界上没有最美的编程语言，只有使用它的开发工程师的能力高低之分。; 比如 C/C++ 适合去做底层开发、游戏、游戏引擎等，Java 适合去做 web 应用、安卓、大数据等，Python 适合去做人工智能等，PHP 适合去做网页开发等，Go 是区块链的主力开...\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://blog.zhulang.love/basic/beginner-guide-2023/5-what-is-the-best-programming-language.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"狐狸半面添的客栈\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"世界上最好的编程语言是什么\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"我认为的是：\\r世界上没有最好的编程语言，存在即合理，只是每门编程语言所适用与擅长的范围不同。; \\r世界上没有最美的编程语言，只有使用它的开发工程师的能力高低之分。; 比如 C/C++ 适合去做底层开发、游戏、游戏引擎等，Java 适合去做 web 应用、安卓、大数据等，Python 适合去做人工智能等，PHP 适合去做网页开发等，Go 是区块链的主力开...\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"article:author\",\"content\":\"狐狸半面添\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"世界上最好的编程语言是什么\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"狐狸半面添\\\",\\\"url\\\":\\\"https://blog.zhulang.love\\\",\\\"email\\\":\\\"3179167073@qq.com\\\"}]}\"]]},\"headers\":[],\"readingTime\":{\"minutes\":1.08,\"words\":324},\"filePathRelative\":\"basic/beginner-guide-2023/5-what-is-the-best-programming-language.md\",\"copyright\":{\"author\":\"狐狸半面添\"},\"autoDesc\":true,\"git\":{\"updatedTime\":null}}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

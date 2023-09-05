@@ -9,7 +9,7 @@ export default sidebar({
             collapsible: true,
             children: [
                 {
-                    text: "总览",
+                    text: "写在前面",
                     link: "README"
                 },
                 {
@@ -23,7 +23,59 @@ export default sidebar({
                 {
                     text: "3. 英语和数学不好可以学编程吗",
                     link: "3-math-and-english-to-program"
-                }
+                },
+                {
+                    text: "4. 我应该要学习很多编程语言吗",
+                    link: "4-should-I-learn-many-programming-language"
+                },
+                {
+                    text: "5. 世界上最好的编程语言是什么",
+                    link: "5-what-is-the-best-programming-language"
+                },
+                {
+                    text: "6. 大一上需要去纠结走哪个方向吗",
+                    link: "6-do-I-need-to-struggle-in-which-direction-to-take-in-my-freshman-year"
+                },
+                {
+                    text: "7. 初次刷题没思路没感觉正常吗",
+                    link: "7-no-ideas-to-questions"
+                },
+                {
+                    text: "8. 如果我在写代码时遇到问题怎么办",
+                    link: "8-what-if-I-encounter-problems-while-writing-code"
+                },
+                {
+                    text: "9. 学习编程是应该先看书还是先看视频呢",
+                    link: "9-book-or-video-about-learning-program"
+                },
+                {
+                    text: "10. 我是非计算机专业可以学好编程吗",
+                    link: "10-can-I-learn-programming-well-if-I-am-not-a-computer-major"
+                },
+                {
+                    text: "11. 我认认真真上好学校的课程就够了吗",
+                    link: "11-am-I-serious-enough-to-attend-good-school-courses"
+                },
+                {
+                    text: "12. 关于C语言",
+                    link: "12-about-c-language"
+                },
+                {
+                    text: "13. 编程学习的心得分享",
+                    link: "13-sharing-of-experience-in-programming-learning"
+                },
+                {
+                    text: "14. 程序员成长的三阶段",
+                    link: "14-the-three-stages-of-programmer-growth"
+                },
+                {
+                    text: "15. 计算机基础知识",
+                    link: "15-computer-basics"
+                },
+                {
+                    text: "16. 在大学",
+                    link: "16-at-university"
+                },
             ]
         },
         {

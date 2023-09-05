@@ -7,7 +7,7 @@
 <li>汉语：我爱你。</li>
 <li>英语：I love you.</li>
 <li>日语：あなたのことが好きです</li>
-<li>C 编程语言：printf(&quot;我爱你&quot;);</li>
+<li>C 编程语言：<code v-pre>printf(&quot;我爱你&quot;);</code></li>
 <li>C++ 编程语言：<code v-pre>cout &lt;&lt; &quot;我爱你&quot; &lt;&lt; endl;</code></li>
 <li>Java 编程语言：<code v-pre>System.out.println(&quot;我爱你&quot;);</code></li>
 </ul>
@@ -16,7 +16,7 @@
 <span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span><span class="token string">&lt;stdio.h></span></span>
 <span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
 <span class="token punctuation">{</span>
-	<span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"Hello World"</span><span class="token punctuation">)</span><span class="token punctuation">;</span> 
+    <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"Hello World"</span><span class="token punctuation">)</span><span class="token punctuation">;</span> 
     <span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span>
 <span class="token punctuation">}</span>
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>那么，C 语言肯定规定了源代码中每个词汇、语句的含义，也规定了它们该如何组织在一起，这就是 <strong>语法（Syntax）</strong>。它与我们学习英语时所说的“语法”类似，都规定了如何将特定的词汇和句子组织成能听懂的语言。</p>
@@ -24,7 +24,7 @@
 <p>从事编程工作的人叫 <strong>程序员（Programmer）</strong>。</p>
 <p>程序员也很幽默，喜欢自嘲，经常说自己的工作辛苦，地位低，像农民一样，所以称自己是”码农“，就是写代码的农民，也有人自嘲称是”程序猿“。😭</p>
 <blockquote>
-<p>📍 Tip：自称码农的程序员并不见得能容忍其他人这样称呼自己哦，类似于自己调侃自己是“舔狗”、“屌丝”、”靓仔“没问题，但不见得希望别人这么调侃自己。</p>
+<p>📍 自称码农的程序员并不见得能容忍其他人这样称呼自己哦，类似于自己调侃自己是“舔狗”、“屌丝”、”靓仔“没问题，但不见得希望别人这么调侃自己。</p>
 </blockquote>
 <p>身处现如今的互联网行业，程序员工作辛苦，加班再正常不过，项目进度、突发情况、公司文化都可能成为加班的理由，虽然收入不一定差，但够苦逼。另外一方面， 程序员鱼龙混杂，水平参差不齐，而互联网向来是一个强调能力的开放行业，有多少能力就拿多少工资，这样注定有相当大一部分因为水平不够，导致收入问题成为码农们的心病。</p>
 <p>💖 所以，你要加油，等到她来的时候，一定要抱紧她。告诉她，“来了，就别再走了。”</p>
