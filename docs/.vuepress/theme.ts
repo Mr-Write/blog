@@ -18,7 +18,7 @@ export default hopeTheme({
   },
 
   // 设置图标(这里是阿里的)
-  iconAssets: "//at.alicdn.com/t/c/font_4186795_2afrsuy3ueb.css",
+  iconAssets: "//at.alicdn.com/t/c/font_4186795_hl4xlttmoq4.css",
   iconPrefix: "iconfont icon-",
 
   // 默认 switch: 在深色模式，浅色模式和自动之间切换 
