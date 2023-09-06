@@ -13,6 +13,8 @@ export default defineUserConfig({
   lang: "zh-CN",
   title: "狐狸半面添的客栈",
   description: "狐狸半面添的博客网站，分享技术",
+  // 是否开启默认预加载 js
+  shouldPrefetch: (file, type) => false,
 
   theme,
 

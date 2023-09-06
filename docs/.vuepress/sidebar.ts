@@ -122,9 +122,9 @@ export default sidebar({
                 }
             ]
         },
-        {
-            text: '我的测试',
-            link: 'the-test'
-        }
+        // {
+        //     text: '我的测试',
+        //     link: 'the-test'
+        // }
     ],
 });

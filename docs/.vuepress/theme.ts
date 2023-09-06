@@ -8,12 +8,12 @@ const MR_HOPE_AVATAR =
 
 export default hopeTheme({
 
-  hostname: "https://blog.zhulang.love",
+  hostname: "https://www.zhulang.love",
 
   // 配置文章的作者，以及点击时的跳转链接
   author: {
     name: "狐狸半面添",
-    url: "https://blog.zhulang.love",
+    url: "https://www.zhulang.love",
     email: "3179167073@qq.com",
   },
 
@@ -59,7 +59,7 @@ export default hopeTheme({
   // 开启脚注与版本信息显示
   displayFooter: true,
   // 页脚与版权信息,属性值都会以 v-html 指令形式进行渲染 
-  footer: '<a href="http://beian.miit.gov.cn/" rel="noopener noreferrer" target="_blank">湘ICP备2023007785号</a>',
+  footer: '<a href="http://beian.miit.gov.cn/" rel="noopener noreferrer" target="_blank">湘ICP备2023007785号-1</a>',
   copyright: 'Copyright © 2023 狐狸半面添的客栈',
 
   // 在桌面模式下，文章的标题列表会自动显示在屏幕的右侧。(在移动视图下它们会放置在侧边栏里)
