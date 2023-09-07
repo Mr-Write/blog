@@ -10,7 +10,6 @@
 
 - 汉语：我爱你。
 - 英语：I love you.
-- 日语：あなたのことが好きです
 - C 编程语言：`printf("我爱你");`
 - C++ 编程语言：`cout << "我爱你" << endl;`
 - Java 编程语言：`System.out.println("我爱你");`

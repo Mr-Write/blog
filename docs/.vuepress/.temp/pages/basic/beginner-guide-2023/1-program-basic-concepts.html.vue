@@ -6,7 +6,6 @@
 <ul>
 <li>汉语：我爱你。</li>
 <li>英语：I love you.</li>
-<li>日语：あなたのことが好きです</li>
 <li>C 编程语言：<code v-pre>printf(&quot;我爱你&quot;);</code></li>
 <li>C++ 编程语言：<code v-pre>cout &lt;&lt; &quot;我爱你&quot; &lt;&lt; endl;</code></li>
 <li>Java 编程语言：<code v-pre>System.out.println(&quot;我爱你&quot;);</code></li>
