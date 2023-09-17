@@ -15,5 +15,8 @@ features:
     details: 一个学习指导、资源共享、技术交流的学术平台
     link: https://www.csuftsap.cn/
 
+---
 
+🚀🚀🚀 **软件协会 23 级新生群（群号：878374146）**
 
+![image-20230911115416553](https://sangxin-tian.oss-cn-nanjing.aliyuncs.com/image/image-20230911115416553.png)

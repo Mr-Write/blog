@@ -28,6 +28,21 @@ export default navbar([
     ]
   },
   {
+    text: "寻找",
+    prefix: "/find/",
+    icon: "renqun",
+    children:[
+      {
+        text: "寻找李宗盛-既然青春留不住",
+        link: "find-Li-Zongsheng"
+      },
+      {
+        text: "寻找童锦程-把爱留在798",
+        link: "find-Tong-Jincheng"
+      }
+    ]
+  },
+  {
     text: "软件协会",
     link: "https://www.csuftsap.cn/",
     icon: "ruanjiankaifabao"

@@ -1,6 +1,8 @@
 export const pagesRoutes = [
   ["v-8daa1a0e","/",{"y":"h","t":"","i":"home"},["/README.md"]],
   ["v-370e5d1e","/basic/the-test.html",{"y":"a","t":"介绍页","i":"zhuye"},[":md"]],
+  ["v-03889ff7","/find/find-Li-Zongsheng.html",{"y":"a","t":"寻找李宗盛-既然青春留不住"},[":md"]],
+  ["v-633e10e6","/find/find-Tong-Jincheng.html",{"y":"a","t":"寻找童锦程-把爱留在798"},[":md"]],
   ["v-4b10b0ac","/basic/beginner-guide-2023/1-program-basic-concepts.html",{"y":"a","t":"编程的几个基本概念"},[":md"]],
   ["v-23ebfece","/basic/beginner-guide-2023/10-can-I-learn-programming-well-if-I-am-not-a-computer-major.html",{"y":"a","t":"我是非计算机专业可以学好编程吗"},[":md"]],
   ["v-64c7aa49","/basic/beginner-guide-2023/11-am-I-serious-enough-to-attend-good-school-courses.html",{"y":"a","t":"我认认真真上好学校的课程就够了吗"},[":md"]],
@@ -30,4 +32,5 @@ export const pagesRoutes = [
   ["v-9d550642","/basic/beginner-guide-2022/",{"y":"a","t":"⭐ 初学者值得一看：什么是C语言，学习建议，解疑与误区"},["/basic/beginner-guide-2022/README.md"]],
   ["v-3706649a","/404.html",{"y":"p","t":""},[]],
   ["v-7664c5fa","/basic/",{"y":"p","t":"Basic"},[]],
+  ["v-1491c23d","/find/",{"y":"p","t":"Find"},[]],
 ]

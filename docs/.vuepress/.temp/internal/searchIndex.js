@@ -22,6 +22,56 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "寻找李宗盛-既然青春留不住",
+    "headers": [
+      {
+        "level": 2,
+        "title": "🔷 《鬼迷心窍》",
+        "slug": "🔷-《鬼迷心窍》",
+        "link": "#🔷-《鬼迷心窍》",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "🔷 《我是真的爱你》",
+        "slug": "🔷-《我是真的爱你》",
+        "link": "#🔷-《我是真的爱你》",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "🔷 《爱的代价》",
+        "slug": "🔷-《爱的代价》",
+        "link": "#🔷-《爱的代价》",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "🔷 《不必在乎我是谁》",
+        "slug": "🔷-《不必在乎我是谁》",
+        "link": "#🔷-《不必在乎我是谁》",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "🔷 《领悟》",
+        "slug": "🔷-《领悟》",
+        "link": "#🔷-《领悟》",
+        "children": []
+      }
+    ],
+    "path": "/find/find-Li-Zongsheng.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "寻找童锦程-把爱留在798",
+    "headers": [],
+    "path": "/find/find-Tong-Jincheng.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "编程的几个基本概念",
     "headers": [],
     "path": "/basic/beginner-guide-2023/1-program-basic-concepts.html",
@@ -690,6 +740,13 @@ export const searchIndex = [
     "title": "Basic",
     "headers": [],
     "path": "/basic/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Find",
+    "headers": [],
+    "path": "/find/",
     "pathLocale": "/",
     "extraFields": []
   }
