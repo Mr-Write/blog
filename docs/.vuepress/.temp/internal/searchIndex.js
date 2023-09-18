@@ -7,21 +7,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "介绍页",
-    "headers": [
-      {
-        "level": 2,
-        "title": "标题2",
-        "slug": "标题2",
-        "link": "#标题2",
-        "children": []
-      }
-    ],
-    "path": "/basic/the-test.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "寻找李宗盛-既然青春留不住",
     "headers": [
       {
@@ -68,6 +53,21 @@ export const searchIndex = [
     "title": "寻找童锦程-把爱留在798",
     "headers": [],
     "path": "/find/find-Tong-Jincheng.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "介绍页",
+    "headers": [
+      {
+        "level": 2,
+        "title": "标题2",
+        "slug": "标题2",
+        "link": "#标题2",
+        "children": []
+      }
+    ],
+    "path": "/basic/the-test.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -376,6 +376,21 @@ export const searchIndex = [
       }
     ],
     "path": "/basic/beginner-guide-2023/17-common-job-positions-related-to-programming.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "值得一读",
+    "headers": [
+      {
+        "level": 2,
+        "title": "1.一些计算机科技行业读物",
+        "slug": "_1-一些计算机科技行业读物",
+        "link": "#_1-一些计算机科技行业读物",
+        "children": []
+      }
+    ],
+    "path": "/basic/beginner-guide-2023/18-books.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -737,16 +752,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Basic",
+    "title": "Find",
     "headers": [],
-    "path": "/basic/",
+    "path": "/find/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Find",
+    "title": "Basic",
     "headers": [],
-    "path": "/find/",
+    "path": "/basic/",
     "pathLocale": "/",
     "extraFields": []
   }

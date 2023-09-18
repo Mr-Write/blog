@@ -1,12 +1,12 @@
 export const pagesData = {
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
-  // path: /basic/the-test.html
-  "v-370e5d1e": () => import(/* webpackChunkName: "v-370e5d1e" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/the-test.html.js").then(({ data }) => data),
   // path: /find/find-Li-Zongsheng.html
   "v-03889ff7": () => import(/* webpackChunkName: "v-03889ff7" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/find/find-Li-Zongsheng.html.js").then(({ data }) => data),
   // path: /find/find-Tong-Jincheng.html
   "v-633e10e6": () => import(/* webpackChunkName: "v-633e10e6" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/find/find-Tong-Jincheng.html.js").then(({ data }) => data),
+  // path: /basic/the-test.html
+  "v-370e5d1e": () => import(/* webpackChunkName: "v-370e5d1e" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/the-test.html.js").then(({ data }) => data),
   // path: /basic/beginner-guide-2023/1-program-basic-concepts.html
   "v-4b10b0ac": () => import(/* webpackChunkName: "v-4b10b0ac" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/1-program-basic-concepts.html.js").then(({ data }) => data),
   // path: /basic/beginner-guide-2023/10-can-I-learn-programming-well-if-I-am-not-a-computer-major.html
@@ -25,6 +25,8 @@ export const pagesData = {
   "v-44e297db": () => import(/* webpackChunkName: "v-44e297db" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/16-at-university.html.js").then(({ data }) => data),
   // path: /basic/beginner-guide-2023/17-common-job-positions-related-to-programming.html
   "v-0b37d4c4": () => import(/* webpackChunkName: "v-0b37d4c4" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/17-common-job-positions-related-to-programming.html.js").then(({ data }) => data),
+  // path: /basic/beginner-guide-2023/18-books.html
+  "v-b379c0d2": () => import(/* webpackChunkName: "v-b379c0d2" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/18-books.html.js").then(({ data }) => data),
   // path: /basic/beginner-guide-2023/2-is-it-difficulty-to-learn-program.html
   "v-5c92f3f6": () => import(/* webpackChunkName: "v-5c92f3f6" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/2-is-it-difficulty-to-learn-program.html.js").then(({ data }) => data),
   // path: /basic/beginner-guide-2023/3-math-and-english-to-program.html
@@ -63,8 +65,8 @@ export const pagesData = {
   "v-9d550642": () => import(/* webpackChunkName: "v-9d550642" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/index.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
-  // path: /basic/
-  "v-7664c5fa": () => import(/* webpackChunkName: "v-7664c5fa" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/index.html.js").then(({ data }) => data),
   // path: /find/
   "v-1491c23d": () => import(/* webpackChunkName: "v-1491c23d" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/find/index.html.js").then(({ data }) => data),
+  // path: /basic/
+  "v-7664c5fa": () => import(/* webpackChunkName: "v-7664c5fa" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/index.html.js").then(({ data }) => data),
 }

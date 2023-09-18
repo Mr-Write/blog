@@ -79,6 +79,10 @@ export default sidebar({
                 {
                     text: "17. 编程相关的常见工作岗位",
                     link: "17-common-job-positions-related-to-programming"
+                },
+                {
+                    text: "18. 值得一读",
+                    link: "18-books"
                 }
             ]
         },

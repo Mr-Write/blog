@@ -3,12 +3,12 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/index.html.vue")),
-  // path: /basic/the-test.html
-  "v-370e5d1e": defineAsyncComponent(() => import(/* webpackChunkName: "v-370e5d1e" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/the-test.html.vue")),
   // path: /find/find-Li-Zongsheng.html
   "v-03889ff7": defineAsyncComponent(() => import(/* webpackChunkName: "v-03889ff7" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/find/find-Li-Zongsheng.html.vue")),
   // path: /find/find-Tong-Jincheng.html
   "v-633e10e6": defineAsyncComponent(() => import(/* webpackChunkName: "v-633e10e6" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/find/find-Tong-Jincheng.html.vue")),
+  // path: /basic/the-test.html
+  "v-370e5d1e": defineAsyncComponent(() => import(/* webpackChunkName: "v-370e5d1e" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/the-test.html.vue")),
   // path: /basic/beginner-guide-2023/1-program-basic-concepts.html
   "v-4b10b0ac": defineAsyncComponent(() => import(/* webpackChunkName: "v-4b10b0ac" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/1-program-basic-concepts.html.vue")),
   // path: /basic/beginner-guide-2023/10-can-I-learn-programming-well-if-I-am-not-a-computer-major.html
@@ -27,6 +27,8 @@ export const pagesComponents = {
   "v-44e297db": defineAsyncComponent(() => import(/* webpackChunkName: "v-44e297db" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/16-at-university.html.vue")),
   // path: /basic/beginner-guide-2023/17-common-job-positions-related-to-programming.html
   "v-0b37d4c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-0b37d4c4" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/17-common-job-positions-related-to-programming.html.vue")),
+  // path: /basic/beginner-guide-2023/18-books.html
+  "v-b379c0d2": defineAsyncComponent(() => import(/* webpackChunkName: "v-b379c0d2" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/18-books.html.vue")),
   // path: /basic/beginner-guide-2023/2-is-it-difficulty-to-learn-program.html
   "v-5c92f3f6": defineAsyncComponent(() => import(/* webpackChunkName: "v-5c92f3f6" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/2-is-it-difficulty-to-learn-program.html.vue")),
   // path: /basic/beginner-guide-2023/3-math-and-english-to-program.html
@@ -65,8 +67,8 @@ export const pagesComponents = {
   "v-9d550642": defineAsyncComponent(() => import(/* webpackChunkName: "v-9d550642" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/404.html.vue")),
-  // path: /basic/
-  "v-7664c5fa": defineAsyncComponent(() => import(/* webpackChunkName: "v-7664c5fa" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/index.html.vue")),
   // path: /find/
   "v-1491c23d": defineAsyncComponent(() => import(/* webpackChunkName: "v-1491c23d" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/find/index.html.vue")),
+  // path: /basic/
+  "v-7664c5fa": defineAsyncComponent(() => import(/* webpackChunkName: "v-7664c5fa" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/index.html.vue")),
 }
