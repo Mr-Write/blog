@@ -94,7 +94,7 @@
 <h3 id="🍀-学会写注释" tabindex="-1"><a class="header-anchor" href="#🍀-学会写注释" aria-hidden="true">#</a> 🍀 学会写注释</h3>
 <p>什么是注释：<font color='green'>用于说明解释程序代码的文字就是注解。</font>被注释的文字，不会被编译器编译执行，注释就是给自己或其它程序员看的。</p>
 <p>注解提高了代码的阅读性。<font color='red'>会写注释 是 一个程序员必须要具有的良好的编程习惯。</font>将自己的思维先通过注释整理出来，再用代码去体现。</p>
-<p>试想一下，在项目开发中，如果遇到 BUG，你或其它程序员需要对你的代码进行修改，可能随着时间推移你也早就忘了某段代码到底是干嘛的了，如果你写了注释，程序员能够快速把握你的代码编写思路，极大提高开发效率。<font color='red'>写一手好的代码也是一个高级程序员必备的技能之一。</font></p>
+<p>试想一下，在项目开发中，如果遇到 BUG，你或其它程序员需要对你的代码进行修改，可能随着时间推移你也早就忘了某段代码到底是干嘛的了，如果你写了注释，程序员能够快速把握你的代码编写思路，极大提高开发效率。<font color='red'>写一手好的注释也是一个高级程序员必备的技能之一。</font></p>
 <p>📑 我举一个我在项目中写过的注释：</p>
 <div class="language-java line-numbers-mode" data-ext="java"><pre v-pre class="language-java"><code><span class="token comment">// 1.校验用户手机号格式</span>
 <span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token class-name">RegexUtils</span><span class="token punctuation">.</span><span class="token function">isPhoneInvalid</span><span class="token punctuation">(</span>phone<span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>

@@ -1,12 +1,30 @@
 export const pagesData = {
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
+  // path: /basic/the-test.html
+  "v-370e5d1e": () => import(/* webpackChunkName: "v-370e5d1e" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/the-test.html.js").then(({ data }) => data),
   // path: /find/find-Li-Zongsheng.html
   "v-03889ff7": () => import(/* webpackChunkName: "v-03889ff7" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/find/find-Li-Zongsheng.html.js").then(({ data }) => data),
   // path: /find/find-Tong-Jincheng.html
   "v-633e10e6": () => import(/* webpackChunkName: "v-633e10e6" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/find/find-Tong-Jincheng.html.js").then(({ data }) => data),
-  // path: /basic/the-test.html
-  "v-370e5d1e": () => import(/* webpackChunkName: "v-370e5d1e" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/the-test.html.js").then(({ data }) => data),
+  // path: /basic/beginner-guide-2022/1-what-is-program-language.html
+  "v-4ca7f3ba": () => import(/* webpackChunkName: "v-4ca7f3ba" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/1-what-is-program-language.html.js").then(({ data }) => data),
+  // path: /basic/beginner-guide-2022/2-What-is-C-and-my-suggestions.html
+  "v-467577d2": () => import(/* webpackChunkName: "v-467577d2" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/2-What-is-C-and-my-suggestions.html.js").then(({ data }) => data),
+  // path: /basic/beginner-guide-2022/3-C-development-history.html
+  "v-4af316cc": () => import(/* webpackChunkName: "v-4af316cc" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/3-C-development-history.html.js").then(({ data }) => data),
+  // path: /basic/beginner-guide-2022/4-is-programming-and-C-difficult.html
+  "v-5a1f9d8c": () => import(/* webpackChunkName: "v-5a1f9d8c" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/4-is-programming-and-C-difficult.html.js").then(({ data }) => data),
+  // path: /basic/beginner-guide-2022/5-not-good-at-english-and-math-can-program.html
+  "v-5b7d4a69": () => import(/* webpackChunkName: "v-5b7d4a69" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/5-not-good-at-english-and-math-can-program.html.js").then(({ data }) => data),
+  // path: /basic/beginner-guide-2022/6-contempt-chain-between-languages.html
+  "v-39cdf108": () => import(/* webpackChunkName: "v-39cdf108" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/6-contempt-chain-between-languages.html.js").then(({ data }) => data),
+  // path: /basic/beginner-guide-2022/7-sharing-of-experience-in-programming-learning.html
+  "v-370b3c9c": () => import(/* webpackChunkName: "v-370b3c9c" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/7-sharing-of-experience-in-programming-learning.html.js").then(({ data }) => data),
+  // path: /basic/beginner-guide-2022/8-answer-some-other-questions.html
+  "v-378eebf2": () => import(/* webpackChunkName: "v-378eebf2" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/8-answer-some-other-questions.html.js").then(({ data }) => data),
+  // path: /basic/beginner-guide-2022/
+  "v-9d550642": () => import(/* webpackChunkName: "v-9d550642" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/index.html.js").then(({ data }) => data),
   // path: /basic/beginner-guide-2023/1-program-basic-concepts.html
   "v-4b10b0ac": () => import(/* webpackChunkName: "v-4b10b0ac" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/1-program-basic-concepts.html.js").then(({ data }) => data),
   // path: /basic/beginner-guide-2023/10-can-I-learn-programming-well-if-I-am-not-a-computer-major.html
@@ -23,8 +41,8 @@ export const pagesData = {
   "v-2f38a0e6": () => import(/* webpackChunkName: "v-2f38a0e6" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/15-computer-basics.html.js").then(({ data }) => data),
   // path: /basic/beginner-guide-2023/16-at-university.html
   "v-44e297db": () => import(/* webpackChunkName: "v-44e297db" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/16-at-university.html.js").then(({ data }) => data),
-  // path: /basic/beginner-guide-2023/17-common-job-positions-related-to-programming.html
-  "v-0b37d4c4": () => import(/* webpackChunkName: "v-0b37d4c4" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/17-common-job-positions-related-to-programming.html.js").then(({ data }) => data),
+  // path: /basic/beginner-guide-2023/17-career-paths-in-the-programming-world.html
+  "v-ed9e824c": () => import(/* webpackChunkName: "v-ed9e824c" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/17-career-paths-in-the-programming-world.html.js").then(({ data }) => data),
   // path: /basic/beginner-guide-2023/18-books.html
   "v-b379c0d2": () => import(/* webpackChunkName: "v-b379c0d2" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/18-books.html.js").then(({ data }) => data),
   // path: /basic/beginner-guide-2023/2-is-it-difficulty-to-learn-program.html
@@ -45,28 +63,10 @@ export const pagesData = {
   "v-ef26ad8c": () => import(/* webpackChunkName: "v-ef26ad8c" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/9-book-or-video-about-learning-program.html.js").then(({ data }) => data),
   // path: /basic/beginner-guide-2023/
   "v-9d550604": () => import(/* webpackChunkName: "v-9d550604" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2023/index.html.js").then(({ data }) => data),
-  // path: /basic/beginner-guide-2022/1-what-is-program-language.html
-  "v-4ca7f3ba": () => import(/* webpackChunkName: "v-4ca7f3ba" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/1-what-is-program-language.html.js").then(({ data }) => data),
-  // path: /basic/beginner-guide-2022/2-What-is-C-and-my-suggestions.html
-  "v-467577d2": () => import(/* webpackChunkName: "v-467577d2" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/2-What-is-C-and-my-suggestions.html.js").then(({ data }) => data),
-  // path: /basic/beginner-guide-2022/3-C-development-history.html
-  "v-4af316cc": () => import(/* webpackChunkName: "v-4af316cc" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/3-C-development-history.html.js").then(({ data }) => data),
-  // path: /basic/beginner-guide-2022/4-is-programming-and-C-difficult.html
-  "v-5a1f9d8c": () => import(/* webpackChunkName: "v-5a1f9d8c" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/4-is-programming-and-C-difficult.html.js").then(({ data }) => data),
-  // path: /basic/beginner-guide-2022/5-not-good-at-english-and-math-can-program.html
-  "v-5b7d4a69": () => import(/* webpackChunkName: "v-5b7d4a69" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/5-not-good-at-english-and-math-can-program.html.js").then(({ data }) => data),
-  // path: /basic/beginner-guide-2022/6-contempt-chain-between-languages.html
-  "v-39cdf108": () => import(/* webpackChunkName: "v-39cdf108" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/6-contempt-chain-between-languages.html.js").then(({ data }) => data),
-  // path: /basic/beginner-guide-2022/7-sharing-of-experience-in-programming-learning.html
-  "v-370b3c9c": () => import(/* webpackChunkName: "v-370b3c9c" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/7-sharing-of-experience-in-programming-learning.html.js").then(({ data }) => data),
-  // path: /basic/beginner-guide-2022/8-answer-some-other-questions.html
-  "v-378eebf2": () => import(/* webpackChunkName: "v-378eebf2" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/8-answer-some-other-questions.html.js").then(({ data }) => data),
-  // path: /basic/beginner-guide-2022/
-  "v-9d550642": () => import(/* webpackChunkName: "v-9d550642" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/beginner-guide-2022/index.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
-  // path: /find/
-  "v-1491c23d": () => import(/* webpackChunkName: "v-1491c23d" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/find/index.html.js").then(({ data }) => data),
   // path: /basic/
   "v-7664c5fa": () => import(/* webpackChunkName: "v-7664c5fa" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/basic/index.html.js").then(({ data }) => data),
+  // path: /find/
+  "v-1491c23d": () => import(/* webpackChunkName: "v-1491c23d" */"D:/SoftwareEngineering/docs/blog/docs/.vuepress/.temp/pages/find/index.html.js").then(({ data }) => data),
 }

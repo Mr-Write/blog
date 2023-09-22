@@ -77,8 +77,8 @@ export default sidebar({
                     link: "16-at-university"
                 },
                 {
-                    text: "17. 编程相关的常见工作岗位",
-                    link: "17-common-job-positions-related-to-programming"
+                    text: "17. 编程世界的职业道路",
+                    link: "17-career-paths-in-the-programming-world"
                 },
                 {
                     text: "18. 值得一读",
